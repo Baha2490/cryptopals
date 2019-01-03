@@ -1,2 +1,2 @@
 # cryptopals
-Solutions of the http://cryptopals.com/ challenges.
+Solutions to the http://cryptopals.com/ challenges in Python.
